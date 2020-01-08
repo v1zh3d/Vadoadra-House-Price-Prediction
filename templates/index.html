@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Home :: RoomHive</title>
+    <link rel="icon" type="image/ico" href="{{ url_for('static', filename='images/roomhiveicon.png') }}" />
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="background" id="background">
+        <div class="container">
+            <div class="center">
+                <img class="prelogo" src="{{ url_for('static', filename='images/roomhive3.png') }}">
+            </div>
+            <br><br>
+            <div class="center row">
+                <h4>
+                    <span data-text="L">L</span>
+                    <span data-text="O">O</span>
+                    <span data-text="A">A</span>
+                    <span data-text="D">D</span>
+                    <span data-text="I">I</span>
+                    <span data-text="N">N</span>
+                    <span data-text="G">G</span>
+                </h4>
+            </div>
+        </div>
+    </div>
+    <div class="main-div" id="main-div">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-transparent fixed-top">
+            <div class="container">
+                <a class="navbar-brand d-lg-none" href="#"><img
+                        src="{{ url_for('static', filename='images/roomhive3.png') }}" class="logo"></a>
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"
+                    aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-between" id="navbarToggle">
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                    </ul>
+
+                    <a class="navbar-brand d-none d-lg-block" href="#"><img
+                            src="{{ url_for('static', filename='images/roomhive3.png') }}"></a>
+
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <header>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active"
+                        style="background-image: url('http://s1.picswalls.com/wallpapers/2014/08/08/house-high-quality-wallpaper_015636679_148.jpg')">
+                        <div class="carousel-caption">
+                            <h2 class="animated bounceInLeft sliding-text" style="animation-delay: 1s;">First Slide</h2>
+                            <p class="animated bounceInRight sliding-text-small" style="animation-delay: 2s;">This is a
+                                description
+                                for
+                                the first slide.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item"
+                        style="background-image: url('https://wallpapercave.com/wp/wp2449408.jpg')">
+                        <div class="carousel-caption">
+                            <h2 class="animated fadeInLeft sliding-text" style="animation-delay: 1s;">Second
+                                Slide</h2>
+                            <p class="animated fadeInRight sliding-text-small" style="animation-delay: 2s;">This is a
+                                description for
+                                the
+                                second slide.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item"
+                        style="background-image: url('https://wallpapercave.com/wp/wp2464257.jpg')">
+                        <div class="carousel-caption">
+                            <h2 class="animated flipInX sliding-text" style="animation-delay: 1s;">Third Slide
+                            </h2>
+                            <p class="animated flipInY sliding-text-small" style="animation-delay: 2s;">This is a
+                                description for the
+                                third slide.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a id="scroll" class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules"
+                data-ca3_icon=""></a>
+        </header>
+        <section class="py-5">
+            <div id="main" class="container">
+                <form class="well form-horizontal" action="{{ url_for('predict')}}" method="post" id="prediction_form">
+                    <fieldset>
+                        <legend>
+                            <center>
+                                <h2><b>Ideal Home Search</b></h2>
+                            </center>
+                        </legend><br>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">House Type<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 selectContainer">
+                                <div class="content input-group">
+                                    <select name="h_type" class="form-control selectpicker" data-live-search="true"
+                                        required>
+                                        <option data-tokens="" class="content" value="">Select House Type</option>
+                                        <option data-tokens="Apartment" class="content" value="0">
+                                            Apartment</option>
+                                        <option data-tokens="Duplex" class="content" value="1">
+                                            Duplex</option>
+                                        <option data-tokens="Pent House" class="content" value="2">Pent House
+                                        </option>
+                                        <option data-tokens="Tenament" class="content" value="3">Tenament
+                                        </option>
+                                        <option data-tokens="Triplex" class="content" value="4">Triplex
+                                        </option>
+                                        <option data-tokens="Villa" class="content" value="5">Villa
+                                        </option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">Location<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 selectContainer">
+                                <div class="content input-group">
+                                    <select name="location" class="form-control selectpicker" data-live-search="true"
+                                        required>
+                                        <option data-tokens="" class="content" value="">Select Location</option>
+                                        <option data-tokens="Ajwa Road" class="content" value="0">Ajwa Road</option>
+                                        <option data-tokens="Akota" class="content" value="1">
+                                            Akota</option>
+                                        <option data-tokens="Alkapuri" class="content" value="2">
+                                            Alkapuri</option>
+                                        <option data-tokens="Atladra" class="content" value="3">
+                                            Atladra</option>
+                                        <option data-tokens="Bhayli" class="content" value="4">Bhayli
+                                        </option>
+                                        <option data-tokens="Chhani" class="content" value="5">Chhani</option>
+                                        <option data-tokens="Fatehgunj" class="content" value="6">Fatehgunj
+                                        </option>
+                                        <option data-tokens="Gorwa" class="content" value="7">Gorwa</option>
+                                        <option data-tokens="Gotri" class="content" value="8">Gotri</option>
+                                        <option data-tokens="Harni" class="content" value="9">Harni</option>
+                                        <option data-tokens="Karelibaug" class="content" value="10">Karelibaug
+                                        </option>
+                                        <option data-tokens="Khodiyar Nagar" class="content" value="11">
+                                            Khodiyar Nagar
+                                        </option>
+                                        <option data-tokens="Laxmipura" class="content" value="12">Laxmipura
+                                        </option>
+                                        <option data-tokens="Madhav Pura" class="content" value="13">Madhav
+                                            Pura
+                                        </option>
+                                        <option data-tokens="Mandvi" class="content" value="14">Mandvi</option>
+                                        <option data-tokens="Maneja" class="content" value="15">Maneja</option>
+                                        <option data-tokens="Manjalpur" class="content" value="16">Manjalpur
+                                        </option>
+                                        <option data-tokens="Navapura" class="content" value="17">Navapura
+                                        </option>
+                                        <option data-tokens="New Alkapuri" class="content" value="18">New
+                                            Alkapuri
+                                        </option>
+                                        <option data-tokens="New Karelibaugh" class="content" value="19">
+                                            New Karelibaugh
+                                        </option>
+                                        <option data-tokens="New Sama" class="content" value="20">New Sama
+                                        </option>
+                                        <option data-tokens="New VIP Road" class="content" value="21">New VIP
+                                            Road
+                                        </option>
+                                        <option data-tokens="Sama" class="content" value="22">Sama</option>
+                                        <option data-tokens="Sayajipura" class="content" value="23">Sayajipura
+                                        </option>
+                                        <option data-tokens="Soma Talav" class="content" value="24">Soma Talav
+                                        </option>
+                                        <option data-tokens="Vasant Vihar" class="content" value="25">Vasant
+                                            Vihar
+                                        </option>
+                                        <option data-tokens="Vasna Road" class="content" value="26">Vasna Road
+                                        </option>
+                                        <option data-tokens="Vasna-Bhayli Road" class="content" value="27">Vasna-Bhayli
+                                            Road
+                                        </option>
+                                        <option data-tokens="Waghodia Road" class="content" value="28">
+                                            Waghodia Road
+                                        </option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">Size<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 selectContainer">
+                                <div class="content input-group">
+                                    <select name="size" class="form-control selectpicker" data-live-search="true"
+                                        required>
+                                        <option data-tokens="" class="content" value="">Select Size</option>
+                                        <option data-tokens="1 BHK" class="content" value="0">1 BHK</option>
+                                        <option data-tokens="2 BHK" class="content" value="1">2 BHK</option>
+                                        <option data-tokens="3 BHK" class="content" value="2">3 BHK</option>
+                                        <option data-tokens="4 BHK" class="content" value="3">4 BHK</option>
+                                        <option data-tokens="5 BHK" class="content" value="4">5 BHK</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">Bathroom<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 inputGroupContainer">
+                                <div class="content input-group">
+                                    <input name="bath" placeholder="Total bathrooms" class="content form-control"
+                                        type="number" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">Balcony<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 inputGroupContainer">
+                                <div class="content input-group">
+                                    <input name="balcony" placeholder="Total balcony" class="content form-control"
+                                        type="number" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center form-group">
+                            <label class="col-md-2 control-label">Area Size<span style="color: red;">*</span>:</label>
+                            <div class="col-md-4 inputGroupContainer">
+                                <div class="content input-group">
+                                    <input name="total_sqft" placeholder="Total sqft." class="content form-control"
+                                        type="number" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="content center">
+                            <span class="col-md-6" style="color: red;">*All Required</span>
+                        </div>
+
+                    </fieldset>
+                    <div class="content center form-group">
+                        <div class="submit col-md-2"><br>
+                            <button type="submit" class="content btn btn-lg btn-warning">SUBMIT</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+        <article>
+            <div class="content center">
+                <h3>{{ prediction_text }}</h3>
+            </div>
+        </article>
+        <br>
+        <footer>
+            <div class="container-fluid bg-primary py-3">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <div class="row py-0">
+                                <img class="foot" src="{{ url_for('static', filename='images/roomhive3.png') }}">
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="d-inline-block">
+                                <div class="bg-circle-outline d-inline-block" style="background-color:#3b5998">
+                                    <a href="#"><i class="fa fa-2x fa-fw fa-facebook text-white"></i>
+                                    </a>
+                                </div>
+                                <div class="bg-circle-outline d-inline-block" style="background-color:#4099FF">
+                                    <a href="#">
+                                        <i class="fa fa-2x fa-fw fa-twitter text-white"></i></a>
+                                </div>
+
+                                <div class="bg-circle-outline d-inline-block" style="background-color:#0077B5">
+                                    <a href="#">
+                                        <i class="fa fa-2x fa-fw fa-linkedin text-white"></i></a>
+                                </div>
+                                <div class="bg-circle-outline d-inline-block" style="background-color:#fe4164">
+                                    <a href="#">
+                                        <i class="fa fa-2x fa-fw fa-instagram text-white"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <p class="text-center"> Copyright © RoomHive 2019. All right reserved. </p>
+    </div>
+</body>
+<a id="button"></a>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+</html>

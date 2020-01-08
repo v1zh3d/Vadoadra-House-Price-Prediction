@@ -1,0 +1,341 @@
+h_type,location,society,size,bathroom,balcony,total_sqft,yr_built,furniture,sale_type,amenities,market,office,school,college,hospital,population,railway,airport,on_road,air_quality,restaurant,park,price
+apartment,Maneja,Bakeri Swara,3 BHK,3,1,1550,2011,0,new,1,1,1,0,0,1,2,0,0,1,1,1,1,4361705
+apartment,Maneja,Bakeri Swara,3 BHK,3,1,1550,2012,1,new,1,1,1,0,0,1,2,0,0,1,1,1,1,5001905
+apartment,Maneja,Bakeri Swara,3 BHK,3,1,1860,2010,1,new,1,1,1,0,0,1,2,0,0,1,1,1,1,5588795
+apartment,Maneja,Bakeri Swara,2 BHK,2,1,1015,2016,1,new,1,1,1,0,0,1,2,0,0,1,1,1,1,3184740
+apartment,Maneja,Bakeri Swara,2 BHK,2,1,1210,2019,0,new,1,1,1,0,0,1,2,0,0,1,1,1,1,3498895
+apartment,Maneja,Bakeri Swara,4 BHK,4,1,2605,,1,new,1,1,1,0,0,1,2,0,0,1,1,1,1,8353084
+apartment,Ajwa Road,Pragati Tulsi Heights,2 BHK,2,2,1200,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,1900000
+apartment,Ajwa Road,Kanha City,2 BHK,2,2,1200,2011,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,1200000
+apartment,Ajwa Road,Kanha City,3 BHK,3,1,1550,2011,1,new,2,1,1,1,0,1,1,0,0,1,1,1,1,3401000
+apartment,Ajwa Road,Shree Swaminarayan Niketan,1 BHK,1,1,750,,0,new,0,1,1,0,0,0,1,0,0,0,1,1,0,1100000
+apartment,Ajwa Road,Shree Swaminarayan Niketan,2 BHK,2,1,1415,,0,new,0,1,1,0,0,0,1,0,0,0,1,1,0,1951000
+duplex,Ajwa Road,DEV Krupa,3 BHK,2,1,2021,,0,new,2,1,1,0,0,0,1,0,0,0,1,1,1,6000000
+apartment,Ajwa Road,Dove Deck,2 BHK,2,1,1135,,1,resale,2,1,1,0,0,0,1,0,0,0,1,1,1,3350000
+apartment,Ajwa Road,Dove Deck,2 BHK,2,1,1310,,1,resale,2,1,1,0,0,0,1,0,0,0,1,1,1,3750000
+apartment,Ajwa Road,Dove Deck,2 BHK,2,1,1350,,1,resale,2,1,1,0,0,0,1,0,0,0,1,1,1,3300000
+apartment,Ajwa Road,Dove Deck,3 BHK,2,1,1660,,1,resale,2,1,1,0,0,0,1,0,0,0,1,1,1,4100000
+apartment,Ajwa Road,Dove Deck,3 BHK,2,1,1800,,1,resale,2,1,1,0,0,0,1,0,0,0,1,1,1,5500000
+apartment,Ajwa Road,Taksh Shivam Enclave,2 BHK,2,1,800,2015,1,resale,1,1,0,0,0,0,1,0,0,1,1,1,1,2300000
+apartment,Ajwa Road,Ananta Samruddhi,2 BHK,2,1,1150,2019,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2300000
+apartment,Ajwa Road,Ananta Samruddhi,3 BHK,2,1,1410,2019,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2400000
+duplex,Ajwa Road,Pancham villa,3 BHK,3,1,1195,,0,resale,1,1,1,1,0,1,1,0,0,0,1,1,1,5100000
+duplex,Ajwa Road,Everset Orbit 99,3 BHK,4,1,2000,2019,1,new,1,1,1,1,0,1,1,0,0,1,1,1,1,6750000
+duplex,Ajwa Road,Everset Orbit 99,4 BHK,4,1,2100,2019,1,new,1,1,1,0,0,1,1,0,0,1,1,1,1,9000000
+duplex,Ajwa Road,Ananta Sanskar,1 BHK,1,1,500,2019,0,new,2,1,1,0,0,1,1,0,0,1,1,1,1,2300000
+duplex,Ajwa Road,Ananta Sanskar,2 BHK,2,1,900,2019,1,new,2,1,1,0,0,1,1,0,0,1,1,1,1,2700000
+duplex,Ajwa Road,Ananta Sanskar,3 BHK,3,1,1150,2019,1,new,2,1,1,0,0,1,1,0,0,1,1,1,1,3300000
+duplex,Ajwa Road,Ananta Sanskar,4 BHK,4,1,1350,2019,0,new,2,1,1,0,0,1,1,0,0,1,1,1,1,4050000
+apartment,Harni,Samanvay Samipya,3 BHK,4,1,1791,,1,new,1,1,1,1,1,0,1,0,0,1,1,1,1,4100000
+apartment,Waghodia Road,Darshanam Aagman,2 BHK,2,1,1046,2019,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,2190000
+apartment,Waghodia Road,Kamlesh Gandhi Ultima Lifestyle,2 BHK,2,1,1494,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,1,3251000
+duplex,Waghodia Road,Taksh Aura,3 BHK,3,1,1112,,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,4801000
+duplex,Gorwa,Pratham Srushti,3 BHK,3,1,820,,0,new,1,1,1,0,0,1,1,0,0,1,1,1,1,4940000
+duplex,Waghodia Road,Akshar Aashray,1 BHK,1,1,540,,0,new,1,1,1,0,0,1,1,0,0,1,1,1,1,2250000
+duplex,Waghodia Road,Akshar Aashray,3 BHK,2,1,1030,,0,new,1,1,1,0,0,1,1,0,0,1,1,1,1,2950000
+duplex,Waghodia Road,Akshar Aashray,4 BHK,4,1,1350,,0,new,1,1,1,0,0,1,1,0,0,1,1,1,1,4550000
+apartment,Waghodia Road,Shree Siddheshwar Highlite,3 BHK,3,1,1160,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,4300000
+apartment,Waghodia Road,Sangani Dove Deck,2 BHK,2,1,788,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,3400000
+apartment,Waghodia Road,Sangani Dove Deck,3 BHK,3,1,1047,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,6360000
+duplex,Waghodia Road,Kalash Villas,4 BHK,3,1,1840,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,4250000
+duplex,Waghodia Road,ParkRest Villas,3 BHK,3,1,1281,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,3620000
+duplex,Waghodia Road,ParkRest Villas,4 BHK,4,1,1206,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,4020000
+duplex,Waghodia Road,ParkRest Villas,4 BHK,4,1,1281,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,4221000
+apartment,Waghodia Road,Parweshwar Ved Residency 2,2 BHK,2,0,840,,0,new,1,1,1,0,0,1,1,0,0,1,1,1,1,1750000
+apartment,Waghodia Road,Shree Swaminarayan Park,2 BHK,2,2,1033,2019,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,1900000
+apartment,Waghodia Road,Shree Swaminarayan Park,3 BHK,3,2,1289,2019,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,2300000
+duplex,Waghodia Road,Shilp Residency,3 BHK,3,3,1600,2016,1,new,1,1,0,1,0,1,1,0,0,1,1,1,1,9445000
+apartment,Waghodia Road,Royal Gold ,2 BHK,2,2,1100,2019,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,2851000
+apartment,Waghodia Road,Royal Gold ,3 BHK,3,3,1400,2019,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,3751000
+apartment,Waghodia Road,Aditya Group,2 BHK,2,1,1080,2017,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,3000000
+apartment,Waghodia Road,Aditya Group,3 BHK,3,3,1086,2017,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,4300000
+apartment,Waghodia Road,Shree Siddhanath Paradise,2 BHK,2,2,693,,0,new,1,1,1,1,0,1,1,0,1,1,1,1,1,2350000
+duplex,Waghodia Road,Shyamal Country ,1 BHK,1,1,595,2017,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,1575000
+duplex,Waghodia Road,Shyamal Country ,3 BHK,3,2,1085,2017,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,2225000
+apartment,Waghodia Road,Shreeji Nandavan Heights,1 BHK,1,2,750,,0,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,1711000
+duplex,Waghodia Road,Darshanam Greens,4 BHK,4,2,1517,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,8880000
+duplex,Waghodia Road,Darshanam Greens ,4 BHK,3,2,1560,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,8880000
+duplex,Waghodia Road,Darshanam Greens,3 BHK,2,2,1050,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,6000000
+duplex,Waghodia Road,Akshar Group,1 BHK,1,0,554,2016,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2600000
+duplex,Waghodia Road,Akshar Group,3 BHK,3,1,1025,2016,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,3500000
+duplex,Waghodia Road,Sarkar Gyanam Homes,2 BHK,2,2,685,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,2500000
+duplex,Waghodia Road,The Gokulesh City,1 BHK,1,0,542,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,1400000
+duplex,Waghodia Road,The Gokulesh City,2 BHK,2,1,975,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,1600000
+duplex,Waghodia Road,The Gokulesh City,3 BHK,3,1,1150,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,1800000
+apartment,Waghodia Road,Vedant Residency,2 BHK,2,2,1100,,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2300000
+apartment,Waghodia Road,Aditya Heights,3 BHK,3,3,2000,,0,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,4500000
+apartment,Waghodia Road,Darshanam Vertica,1 BHK,1,1,600,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,1651000
+apartment,Waghodia Road,Darshanam Vertica,2 BHK,2,2,1311,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,2700000
+apartment,Waghodia Road,Darshanam Vertica,3 BHK,3,2,1840,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,4000000
+duplex,Waghodia Road,Pratham Enterprise,2 BHK,2,2,1251,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,2300000
+duplex,Waghodia Road,Pratham Enterprise,3 BHK,3,2,1567,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,6500000
+duplex,Waghodia Road,Blues Spring,3 BHK,3,3,952,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,3900000
+apartment,Waghodia Road,Vedant Edifice,2 BHK,2,3,1100,2019,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2400000
+apartment,Madhav Pura,Pawan Viram Plush,2 BHK,2,3,1280,2014,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2688000
+apartment,Madhav Pura,Pawan Viram Plush,3 BHK,3,3,1700,2014,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,3570000
+apartment,Harni,Madhuvan The Ststus,3 BHK,3,2,1032,,0,new,1,1,1,0,0,1,1,0,1,1,1,1,1,3801000
+apartment,Harni,Madhuvan The Ststus,3 BHK,3,2,1152,,0,new,1,1,1,0,0,1,1,0,1,1,1,1,1,4243000
+apartment,Harni,Madhuvan Palace,3 BHK,3,3,1835,,0,new,1,1,1,0,0,1,1,0,1,1,1,1,1,4000000
+apartment,Harni,Madhuvan Palace,4 BHK,4,4,2572,,0,new,1,1,1,0,0,1,1,0,1,1,1,1,1,5602000
+apartment,Harni,Nyalkaran Shree Siddheshwar Highlife,3 BHK,3,3,1900,2021,0,new,1,1,1,0,0,1,1,0,1,1,1,1,1,4201000
+apartment,Manjalpur,Lilleria Richmond,3 BHK,3,3,1540,2019,0,new,2,1,0,1,0,1,1,0,0,0,1,1,1,5390000
+apartment,Manjalpur,Monalisa Residency,3 BHK,3,1,1710,2012,1,resale,2,1,0,1,0,1,1,0,0,0,1,1,1,5500000
+triplex,Manjalpur,Luxurious duplex,5 BHK,3,2,2250,2009,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,0,6500000
+triplex,Manjalpur,Pramukh prasad road,4 BHK,3,2,2200,2014,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,7600000
+apartment,Harni,Rama Sky Harmony,2 BHK,2,1,1270,2016,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3401000
+apartment,Harni,Rama Sky Harmony,4 BHK,4,2,3500,2016,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,9503000
+apartment,Harni,Om Royalisa,2 BHK,2,2,1015,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,2535000
+apartment,Harni,Om Royalisa,2 BHK,2,2,1091,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,2725000
+apartment,Harni,Om Royalisa,3 BHK,3,2,1761,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,4100000
+apartment,Harni,Om Royalisa,3 BHK,3,2,1805,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,4201000
+apartment,Harni,Shubham Elite,2 BHK,2,0,1255,2015,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3450000
+apartment,Harni,Shubham Elite,3 BHK,3,0,1690,2015,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,4800000
+apartment,Harni,Shubham Elite,3 BHK,0,0,1480,2015,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,4303000
+apartment,Harni,Riddhi Siddhi Castle Height,3 BHK,3,1,1910,2016,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,5350000
+duplex,Harni,NK Siddheshwar Hilarious ,3 BHK,3,3,1487,2019,0,new,0,1,1,1,0,1,1,0,1,0,1,1,0,7200000
+apartment,Harni,Nyalkaran Shree Siddheshwar Holiness,2 BHK,2,0,671,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,2400000
+apartment,Harni,Nyalkaran Shree Siddheshwar Holiness,3 BHK,3,0,925,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3400000
+apartment,Harni,AGSP Krishnam Airwings ,2 BHK,2,1,1319,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,2751000
+apartment,Harni,AGSP Krishnam Airwings ,3 BHK,3,1,1677,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3346000
+apartment,Harni,AGSP Krishnam Airwings ,3 BHK,3,1,2591,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,5169000
+apartment,Harni,SP Shree Siddheshwar Paradise,2 BHK,2,2,811,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3100000
+apartment,Harni,SP Shree Siddheshwar Paradise,3 BHK,3,2,1064,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,4100000
+apartment,Harni,SP Shree Siddheshwar Paradise,4 BHK,4,3,1501,,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,5900000
+apartment,Harni,38 Avenue,2 BHK,2,0,1000,2019,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,2500000
+apartment,Harni,38 Avenue,3 BHK,3,0,1385,2019,0,new,1,1,1,1,0,1,1,0,1,0,1,1,0,3100000
+apartment,Khodiyar Nagar,Upvan Heritage,3 BHK,3,2,1385,2019,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3550000
+apartment,Harni,Temple View,2 BHK,2,1,1165,2019,0,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3200000
+apartment,Harni,Temple View,3 BHK,3,2,1445,2019,0,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3700000
+apartment,Harni,Sarva Square,2 BHK,2,1,945,2017,0,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3100000
+apartment,Harni,Sarva Square,2 BHK,2,1,946,2017,0,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3100000
+apartment,Harni,Sarva Square,2 BHK,2,1,952,2017,0,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3100000
+apartment,Harni,Siddarth Square,1 BHK,1,1,725,,1,resale,0,1,1,1,0,1,1,0,1,0,1,1,0,2012500
+apartment,Harni,Sumeru Heights,2 BHK,2,1,1097,,1,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3500000
+apartment,Harni,Sumeru Heights,2 BHK,2,1,1050,,1,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,2650000
+apartment,Harni,Sumeru Heights,2 BHK,2,1,1250,,1,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3800000
+apartment,Harni,Sumeru Heights,3 BHK,3,1,1785,,1,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,3700000
+apartment,Harni,Sumeru Heights,3 BHK,3,1,3200,,1,resale,1,1,1,1,0,1,1,0,1,0,1,1,0,6300000
+duplex,New Karelibaugh,Shree Rangam Vintage,3 BHK,3,2,1500,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,4701000
+duplex,New Karelibaugh,Shree Hari Krishna Haricom,1 BHK,1,1,760,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,1151000
+duplex,New Karelibaugh,Shree Hari Krishna Haricom,1 BHK,1,1,792,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,1199000
+duplex,New Karelibaugh,Shree Hari Krishna Haricom,2 BHK,2,1,1120,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,1751000
+duplex,New Karelibaugh,Shree Hari Krishna Haricom,3 BHK,3,2,1375,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,2299000
+apartment,New Karelibaugh,Sahaj Residency,2 BHK,2,1,557,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1930000
+apartment,New Karelibaugh,Sahaj Residency,2 BHK,2,1,629,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2151000
+apartment,New Karelibaugh,Sahaj Residency,3 BHK,3,2,876,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2770000
+apartment,New Karelibaugh,Sahaj Residency,4 BHK,4,2,976,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5115000
+apartment,New Karelibaugh,Sahaj Residency,4 BHK,4,2,1058,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5400000
+apartment,New VIP Road,Aditya Pancham ELite,2 BHK,2,1,1050,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2205000
+apartment,New VIP Road,Aditya Pancham ELite,2 BHK,2,1,1280,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2688000
+apartment,New VIP Road,Aditya Pancham ELite,3 BHK,3,2,1860,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3906000
+pent house,New VIP Road,Aditya Pancham ELite,3 BHK,3,2,1975,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,4147000
+pent house,New VIP Road,Aditya Pancham ELite,3 BHK,3,2,2550,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5355000
+apartment,Sama,Shiv Om Shivalik IV,1 BHK,1,1,601,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1412000
+apartment,Sama,Shiv Om Shivalik IV,2 BHK,2,1,501,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1177000
+apartment,Sama,Shiv Om Shivalik IV,2 BHK,2,1,693,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1628000
+apartment,Karelibaug,Bhagirath Heights ,1 BHK,1,1,330,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1350000
+apartment,Karelibaug,Bhagirath Heights ,2 BHK,2,1,590,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2050000
+apartment,Mandvi,Balaji Avadhoot Residency,2 BHK,2,1,1000,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2700000
+apartment,Harni,Madhuvan The Signature,3 BHK,3,2,1400,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3300000
+apartment,Harni,Madhuvan The Signature,3 BHK,3,2,2051,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5100000
+apartment,New Karelibaugh,Avadh City,2 BHK,2,1,1050,2018,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1850000
+apartment,New Karelibaugh,Avadh City,3 BHK,3,1,1350,2018,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2400000
+duplex,New Karelibaugh,Avadh City,3 BHK,3,2,1350,2018,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5000000
+duplex,New Karelibaugh,Shree Hari Bungalows,3 BHK,3,2,1800,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5501000
+apartment,New Karelibaugh,SP Shree Siddheshwar Plaza 2,2 BHK,2,1,710,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2450000
+apartment,New Karelibaugh,SP Shree Siddheshwar Plaza 2,3 BHK,3,2,935,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3250000
+apartment,New Karelibaugh,Siddheshwar Homes,2 BHK,2,1,1050,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,1850000
+apartment,New Karelibaugh,Shreeji Ashray,2 BHK,2,1,915,2018,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,2400000
+apartment,New Karelibaugh,Sakar Krupa Residency,2 BHK,2,1,1000,2017,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,1800000
+apartment,New Karelibaugh,Mukhi Eshanti Heights,3 BHK,2,3,1300,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,2950000
+apartment,New Karelibaugh,Mukhi Eshanti Heights,4 BHK,4,3,1600,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,5100000
+apartment,New VIP Road,Earth Icon,2 BHK,2,1,950,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2400000
+apartment,New VIP Road,Earth Icon,3 BHK,3,1,1340,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3374000
+duplex,New VIP Road,Kyenfra Viera Villas,4 BHK,4,0,1300,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,6500000
+duplex,New VIP Road,Kraft Alok Residency,3 BHK,3,2,1545,,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,New VIP Road,Earth Icon 2,2 BHK,2,1,928,2016,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2800000
+apartment,New VIP Road,Earth Icon 2,3 BHK,3,1,1140,2016,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3500000
+duplex,New VIP Road,Earth Icon 2,3 BHK,3,1,1200,2016,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,6500000
+apartment,Khodiyar Nagar,Shiv Ratnam Square,2 BHK,2,1,700,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3300000
+apartment,Khodiyar Nagar,Pancham Elite,2 BHK,2,2,1250,2019,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2500000
+apartment,Soma Talav,Samruddhi Residency,1 BHK,1,1,428,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,1180000
+duplex,Sayajipura,Darshanam Residency,2 BHK,2,1,512,2016,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3250000
+apartment,Sayajipura,Shreeji Highview,2 BHK,2,2,667.71,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,3951000
+duplex,Sayajipura,Omkara Heritage,4 BHK,3,2,1200,2017,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,6200000
+apartment,Sayajipura,Sakar Gyananand Greens,1 BHK,1,1,650,2015,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,1250000
+tenament,Sayajipura,Taksh Aangan,1 BHK,1,0,585,2016,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2600000
+tenament,Sayajipura,Taksh Aangan,1 BHK,1,0,720,2016,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3400000
+apartment,Sayajipura,Sharnam Happy Homes,1 BHK,1,1,800,2019,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2200000
+apartment,Sama,Shrinagar Residency,3 BHK,2,1,1500,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,4200000
+apartment,New Sama,Kasturba Nagar,1 BHK,1,1,540,,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2500000
+apartment,New Sama,Narayan Greenwords,3 BHK,3,2,1259,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2701000
+apartment,New Sama,Narayan Greenwords,3 BHK,3,2,1280,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2746000
+apartment,Karelibaug,The Landmark,4 BHK,4,4,2128.33,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,13300000
+apartment,Karelibaug,The Landmark,4 BHK,4,4,2190.03,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,14400000
+apartment,Karelibaug,The Landmark,4 BHK,4,4,2558.9,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,16800000
+apartment,Karelibaug,The Landmark,4 BHK,4,4,2797.33,,1,new,1,1,1,1,0,1,1,0,0,0,1,1,0,18400000
+apartment,Harni,The Signature,3 BHK,3,1,900.29,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3300000
+apartment,Harni,Blue Ocean,2 BHK,2,1,665,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2500000
+apartment,Harni,Blue Ocean,2 BHK,2,1,902,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,3350000
+apartment,Fatehgunj,Sharnam Solitare,3 BHK,3,1,1200,2019,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,Fatehgunj,Sharnam Bless,3 BHK,3,3,1650,,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,6500000
+duplex,Fatehgunj,White House Estate,3 BHK,3,2,1882,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,18000000
+apartment,Fatehgunj,Push Kunj,3 BHK,3,2,1700,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,Fatehgunj,Luxurious Flat,3 BHK,3,2,1500,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,Fatehgunj,Luxurious Flat,2 BHK,2,1,1165,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,Fatehgunj,Urmi Apartments,2 BHK,2,2,1300,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,1900000
+apartment,Fatehgunj,Mistry Vadia Residency,3 BHK,3,1,1750,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,0,5500000
+apartment,Fatehgunj,Exotica Residency,2 BHK,2,1,806,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,4000000
+apartment,Fatehgunj,Richmond Tower,3 BHK,3,1,1550,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,6500000
+apartment,Fatehgunj,Deepaknagar Apartment,1 BHK,1,1,700,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,2000000
+apartment,Fatehgunj,Rosette Apartment,3 BHK,3,2,2500,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,9000000
+apartment,Fatehgunj,Bhumija ,3 BHK,2,2,3000,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5000000
+apartment,Fatehgunj,Mangal Kirti,2 BHK,2,1,850,,0,new,0,1,1,1,0,1,1,0,0,0,1,1,0,3000000
+apartment,Fatehgunj,Dharma Flats,2 BHK,2,3,780,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3100000
+apartment,Fatehgunj,Harmony Apartment,2 BHK,2,1,1000,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,5353000
+apartment,Fatehgunj,Yogi Nagar Society,3 BHK,2,1,1060,,1,resale,1,1,1,1,0,1,1,0,0,0,1,1,0,6100000
+apartment,Fatehgunj,Devdhara ,3 BHK,2,1,1200,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,3000000
+apartment,Fatehgunj,Sarjan Apartment,2 BHK,2,1,800,,0,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,2200000
+duplex,Fatehgunj,Purima Society,3 BHK,1,1,1245,,1,resale,0,1,1,1,0,1,1,0,0,0,1,1,0,8900000
+apartment,Fatehgunj,Samrajya society,2 BHK,2,3,1165,,0,new,1,1,1,1,0,1,1,0,0,0,1,1,0,5500000
+apartment,Akota,24K by Fortune,4 BHK,6,5,3500,2019,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,16750000
+apartment,Akota,Shri Rishabh Saket,3 BHK,3,2,1700,2016,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,7050000
+apartment,Akota,Shri Rishabh Saket,3 BHK,3,2,2000,2016,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,7140000
+apartment,Akota,Shri Rishabh Saket,4 BHK,4,2,2400,2016,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,9900000
+apartment,Akota,Urbanac Aashrith,3 BHK,3,2,1450,,0,new,0,1,1,1,1,1,1,1,0,1,1,1,1,6350000
+apartment,Akota,Urbanac Aashrith,3 BHK,3,2,1520,,0,new,0,1,1,1,1,1,1,1,0,1,1,1,1,6656000
+apartment,Akota,Shree Shyama Residency,3 BHK,3,2,1750,2018,0,new,0,1,1,1,1,1,1,1,0,1,1,1,1,8201000
+triplex,Akota,Pratham Avenue,3 BHK,3,3,980,2019,1,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,7500000
+apartment,Akota,Springwood Residency,2 BHK,2,1,900,2019,1,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,5000000
+apartment,Akota,Shreemay,3 BHK,3,1,1625,,1,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,7500000
+apartment,Akota,Vaibhav Topaz Residency,4 BHK,5,4,3450,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,10500000
+villa,Bhayli,Pratham Meadows,4 BHK,4,2,1685,,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,8326000
+apartment,Bhayli,Arch The Florence,2 BHK,2,1,1100,2020,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,2101000
+apartment,Bhayli,Saptak Rosette,4 BHK,4,2,2550,2022,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,6602000
+apartment,Bhayli,Saptak Rosette,3 BHK,3,2,2150,2022,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,5502000
+apartment,Bhayli,Shree 2,3 BHK,3,0,1625,2021,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,4550000
+apartment,Bhayli,Shree 2,3 BHK,3,1,2000,2021,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,5600000
+apartment,Bhayli,Shree 2,3 BHK,3,2,2040,2021,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,5712000
+apartment,Bhayli,Silver Nest,3 BHK,3,3,2315,,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,6200000
+apartment,Bhayli,Aashtika Vatika,2 BHK,2,0,650,,0,new,0,1,1,1,1,1,1,1,0,1,1,1,1,1650000
+apartment,Bhayli,Shyamal Park,4 BHK,2,2,2203,,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,6301000
+apartment,Bhayli,Shyamal Park,3 BHK,1,1,904,,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,2526000
+duplex,Vasant Vihar,Nilamber Bunglow,4 BHK,3,2,4500,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,37000000
+duplex,Vasant Vihar,Nilamber Bunglow,3 BHK,3,1,2175,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,9900000
+duplex,Bhayli,Nilamber Aacron,4 BHK,3,2,1750,,1,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,11500000
+apartment,Bhayli,Springs Retreat 3,2 BHK,2,2,1400,,1,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,3500000
+apartment,Bhayli,Shyamal Park,2 BHK,1,0,679,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,1875000
+apartment,Bhayli,The Arrows,2 BHK,2,1,950,,0,resale,0,1,1,1,1,1,1,1,0,1,1,1,1,2075000
+apartment,Bhayli,Akshar Ashoka Flats and Penthouse,3 BHK,3,1,1706,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,3100000
+apartment,Vasant Vihar,Nilember Balicimo,3 BHK,4,2,4400,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,17600000
+duplex,Bhayli,Nilamber Group,4 BHK,4,1,1700,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,12000000
+apartment,Bhayli,Maruti Residency,4 BHK,4,3,3400,,1,resale,1,1,1,1,1,1,1,1,0,1,1,1,1,14000000
+villa,Bhayli,Suvarna Rosette,4 BHK,3,1,2200,,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,9000000
+apartment,Bhayli,Fortune Imperia,3 BHK,3,2,1422.77,,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,8601000
+apartment,Bhayli,Fortune Imperia,3 BHK,3,2,1424.77,,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,8617000
+apartment,Bhayli,Fortune Imperia,3 BHK,3,2,1467.05,,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,8873000
+apartment,Bhayli,Fortune Imperia,4 BHK,4,2,1651.03,,0,new,2,1,1,1,1,1,1,1,0,1,1,1,1,10000000
+apartment,Bhayli,Madhav Ellite,3 BHK,2,1,1200,2020,0,new,1,1,1,1,1,1,1,1,0,1,1,1,1,3100000
+apartment,Vasna Road,Niwas Apartments,3 BHK,3,2,1525,2016,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,5000000
+apartment,Vasna Road,Niwas Apartments,3 BHK,3,1,1550,2016,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,5082000
+apartment,Vasna Road,Shivalik Shiv Vatika,3 BHK,3,2,1500,2016,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,5600000
+apartment,Vasna Road,Shreeji Vivanta Elite,3 BHK,3,4,1750,2022,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,6500000
+apartment,Vasna Road,Othello Nautilus,3 BHK,3,1,2095,2014,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,8504000
+apartment,Vasna Road,Gallops Mayfair Meridian,3 BHK,3,1,1750,,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,4500000
+apartment,Vasna Road,Rainbow Nand Higt,3 BHK,3,1,1700,2013,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,5300000
+apartment,Vasna Road,Rainbow Nand Higt,3 BHK,3,1,2000,2013,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,7500000
+apartment,Vasna Road,Rainbow Nand Higt,2 BHK,2,2,1300,2013,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,4300000
+apartment,Vasna-Bhayli Road,Nilamber Bellisimo,3 BHK,3,1,1860,,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,9450000
+apartment,Vasna-Bhayli Road,Nilamber Bellisimo,3 BHK,3,1,2026,,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,11500000
+apartment,Vasna-Bhayli Road,The Rise,2 BHK,2,0,1150,,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,2400000
+apartment,Vasna-Bhayli Road,Earth Acropolis,4 BHK,4,2,2700,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,9300000
+apartment,Vasna-Bhayli Road,Earth Acropolis,4 BHK,4,3,2300,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,6500000
+apartment,Vasna-Bhayli Road,Earth Acropolis,3 BHK,2,1,1370,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,3500000
+apartment,Vasna-Bhayli Road,Earth Acropolis,3 BHK,3,1,1200,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,4000000
+apartment,Vasna-Bhayli Road,Earth Acropolis,3 BHK,3,3,1850,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,5500000
+apartment,Vasna-Bhayli Road,Earth Acropolis,2 BHK,2,2,1105,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,2600000
+apartment,Navapura,Shree Chitrakut Chembers,2 BHK,2,3,1200,,1,resale,0,1,1,0,0,1,1,0,0,1,1,1,1,2400000
+apartment,Navapura,Shivneri Villa,2 BHK,2,1,650,,1,resale,0,1,1,0,0,1,1,0,0,1,1,1,1,3500000
+duplex,Navapura,Goya Gate Society,3 BHK,3,1,1500,,1,resale,0,1,1,0,0,1,1,0,0,1,1,1,1,8800000
+apartment,Navapura,Sai  Sagar apartment,2 BHK,1,0,1100,,0,resale,0,1,1,0,0,1,1,0,0,1,1,1,1,2900000
+apartment,Chhani,Challenge Naysa Skydale,2 BHK,2,0,1430,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,3432000
+apartment,Chhani,Challenge Naysa Skydale,2 BHK,2,0,1445,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,3468000
+apartment,Chhani,Challenge Naysa Skydale,2 BHK,2,1,1515,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,3636000
+apartment,Chhani,Challenge Naysa Skydale,3 BHK,3,1,2060,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,4944000
+apartment,Chhani,Challenge Naysa Skydale,3 BHK,3,1,2260,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,5424000
+apartment,Chhani,Challenge Naysa Skydale,3 BHK,3,1,2500,2020,0,new,2,1,1,1,0,1,1,0,0,1,1,1,1,6000000
+apartment,Chhani,Aditya Edifice,2 BHK,2,2,1272,2020,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,3100000
+apartment,Chhani,Aditya Edifice,3 BHK,4,3,1950,2020,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,4101000
+apartment,Chhani,Amar Vrundalay Residency,2 BHK,2,2,1400,,0,new,0,1,1,1,0,1,1,0,0,1,1,1,1,3500000
+apartment,Chhani,Maruti Heights,2 BHK,2,1,854,,0,new,0,1,1,1,0,1,1,0,0,1,1,1,1,2000000
+apartment,Chhani,Maruti Heights,2 BHK,2,2,1040,,0,new,0,1,1,1,0,1,1,0,0,1,1,1,1,2300000
+apartment,Chhani,Silverline Tatva Heights,2 BHK,2,1,1200,,0,new,1,1,1,1,0,1,1,0,0,1,1,1,1,3500000
+apartment,Chhani,Satva Prime ,2 BHK,2,0,1050,2016,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,2800000
+apartment,Chhani,Siddarth Samanvay 2,3 BHK,2,1,1315,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,3500000
+apartment,Chhani,Samsara Luxury Apartments,2 BHK,2,2,850,,1,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,5200000
+villa,Chhani,Ganesh Nagar,5 BHK,5,2,1000,2017,1,resale,1,1,1,1,0,1,1,0,0,1,1,1,1,7500000
+duplex,Chhani,Ashish Park,3 BHK,3,1,1400,,0,resale,0,1,1,1,0,1,1,0,0,1,1,1,1,7500000
+apartment,Karelibaug,Shree Balaji Agora City Centre,2 BHK,2,2,1525,,1,new,1,1,1,1,1,1,1,0,0,1,1,1,1,6754000
+villa,Karelibaug,Reputed Suramya Sapphire,4 BHK,4,2,1160,,1,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,10500000
+pent house,Karelibaug,Shree Balaji Agora City Centre,4 BHK,4,2,5241,2020,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,28800000
+apartment,Karelibaug,Happy Home Estate Agency,3 BHK,3,2,1650,,0,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,7000000
+apartment,Karelibaug,Welcome Apartment,2 BHK,1,1,750,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,7000000
+apartment,Karelibaug,RBG Complex,2 BHK,1,1,760,,0,resale,0,1,1,1,1,1,1,0,0,0,1,1,1,2200000
+apartment,Karelibaug,Shree Balaji Agora City Centre,3 BHK,3,2,1748,2020,1,new,1,1,1,1,1,1,1,0,0,1,1,1,1,10800000
+apartment,Karelibaug,Shree Balaji Agora City Centre,4 BHK,5,2,3029,2020,1,new,1,1,1,1,1,1,1,0,0,1,1,1,1,13400000
+apartment,Karelibaug,Shree Balaji Agora City Centre,4 BHK,5,5,3482,2020,1,new,1,1,1,1,1,1,1,0,0,1,1,1,1,16300000
+apartment,Karelibaug,Shree Balaji Agora City Centre,3 BHK,3,2,2518,2020,1,new,1,1,1,1,1,1,1,0,0,1,1,1,1,11100000
+apartment,Karelibaug,Natraj Enclave,2 BHK,2,1,1250,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,4200000
+apartment,Karelibaug,Natraj Enclave,2 BHK,2,1,1200,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,3200000
+apartment,New Alkapuri,Vibhav Keystone Skyvillas,4 BHK,4,2,2900,2024,0,new,2,1,1,1,1,1,1,0,0,1,1,1,1,17100000
+apartment,New Alkapuri,Vibhav Keystone Skyvillas,5 BHK,5,2,4385,2024,0,new,2,1,1,1,1,1,1,0,0,1,1,1,1,27500000
+apartment,New Alkapuri,Kalp Paavitra,2 BHK,2,3,1340,2019,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,3618000
+apartment,New Alkapuri,Kalp Paavitra,2 BHK,2,3,1515,2019,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,4091000
+apartment,New Alkapuri,Kalp Paavitra,3 BHK,3,5,1800,2019,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,4860000
+apartment,New Alkapuri,Kalp Paavitra,3 BHK,3,4,2000,2019,0,new,1,1,1,1,1,1,1,0,0,1,1,1,1,5400000
+apartment,New Alkapuri,Nirmaan One,2 BHK,2,1,727,2020,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,2900000
+apartment,New Alkapuri,Nirmaan One,3 BHK,3,2,915,2020,0,new,0,1,1,1,1,1,1,0,0,1,1,1,1,3900000
+duplex,New Alkapuri,Sanskar Maple Homes,4 BHK,5,1,3786,2020,0,new,2,1,1,1,1,1,1,0,0,1,1,1,1,17500000
+apartment,New Alkapuri,Iscon Habitat,2 BHK,2,1,1420,2013,1,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,4000000
+apartment,New Alkapuri,Iscon Habitat,3 BHK,3,1,1830,2013,1,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,6300000
+apartment,New Alkapuri,Iscon Habitat,4 BHK,4,1,2705,2013,1,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,11000000
+apartment,New Alkapuri,Pratham Bluets,2 BHK,2,1,1254,,1,resale,2,1,1,1,1,1,1,0,0,1,1,1,1,3800000
+apartment,Laxmipura,Shreeji Vil,3 BHK,3,2,1800,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,4300000
+villa,Laxmipura,Narayan Gardens,4 BHK,3,2,1600,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,10000000
+apartment,Laxmipura,Nandish Complex,1 BHK,1,1,895,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,1500000
+apartment,Laxmipura,Gangotri Exotica,3 BHK,3,2,2300,,1,resale,1,1,1,1,1,1,1,0,0,1,1,1,1,7500000
+apartment,Laxmipura,White House Estate,2 BHK,2,1,1150,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,2600000
+apartment,Laxmipura,Vaikunth Flats,1 BHK,1,1,335,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,700000
+apartment,Laxmipura,Aaditya Residency,2 BHK,2,2,1075,,1,resale,0,1,1,1,1,1,1,0,0,0,1,1,1,3100000
+apartment,Laxmipura,Tejvant Villa,2 BHK,2,1,1050,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,3500000
+apartment,Laxmipura,Pratham Residency,2 BHK,2,2,1100,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,2300000
+apartment,Laxmipura,Mahindra Gangotri Exotica,3 BHK,3,1,2080,,1,resale,0,1,1,1,1,1,1,0,0,1,1,1,1,5500000
+apartment,Alkapuri,Icon at 42,4 BHK,6,3,3500,2020,0,new,2,1,1,1,0,1,1,1,0,0,1,1,1,19500000
+apartment,Alkapuri,Shyama residency,3 BHK,3,1,1750,2019,0,new,2,1,1,1,0,1,1,1,0,0,1,1,1,8000000
+villa,Alkapuri,22-Kunj Society,3 BHK,4,2,1575,2009,0,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,7200000
+villa,Alkapuri,Malhar point,5 BHK,4,3,2500,2009,0,resale,2,1,1,1,0,1,0,1,0,1,1,1,1,40000000
+apartment,Atladra,safal iris,2 BHK,2,1,1100,2019,0,new,1,1,1,1,0,1,1,1,0,1,1,1,1,1900000
+apartment,Atladra,aamrapali resicom,2 BHK,2,1,1150,2019,0,new,1,1,0,1,0,1,1,1,0,1,1,1,1,2500000
+apartment,Atladra,shreenath shaligram,3 BHK,3,2,1800,2019,0,new,1,1,0,1,0,1,1,0,0,1,1,1,1,4000000
+villa,Atladra,luxurious duplex,3 BHK,3,1,1250,2010,0,resale,1,1,0,1,0,1,1,1,0,1,1,1,1,6500000
+villa,Atladra,Narayan orbis,4 BHK,4,3,1750,2019,0,new,0,1,0,1,0,1,1,1,0,1,1,1,1,7300000
+villa,Atladra,Aarya elite,3 BHK,3,2,1700,2019,0,new,1,1,0,1,0,1,1,1,0,1,1,1,1,6000000
+apartment,Atladra,Celebrity luxuria,3 BHK,3,2,1850,2019,0,new,0,1,0,1,0,1,1,1,0,1,1,1,1,4800000
+apartment,Atladra,Narayan Aura,4 BHK,4,3,2100,2019,0,new,1,1,0,1,0,1,1,1,0,1,1,1,1,4620000
+apartment,Alkapuri,Earth IV ,3 BHK,3,2,1550,2014,0,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,7550000
+apartment,Alkapuri,Nutan Bharat Society,2 BHK,2,4,1000,2000,0,resale,0,1,1,1,0,1,0,1,0,0,1,1,1,3400000
+apartment,Alkapuri,Vishwas Colony,3 BHK,3,1,2000,2014,1,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,13500000
+apartment,Alkapuri,Arihant estate ,3 BHK,4,3,1755,2010,1,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,12500000
+apartment,Alkapuri,Arunodaya Society,3 BHK,2,1,1400,2010,0,resale,0,1,1,1,0,1,0,1,0,0,1,1,1,6000000
+apartment,Alkapuri,The God's gift Society,4 BHK,6,2,4550,2018,1,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,35000000
+apartment,Alkapuri,White House Estate ,2 BHK,1,1,850,2014,1,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,3500000
+villa,Alkapuri,Krishna Estate,3 BHK,3,1,2700,2010,1,resale,1,1,1,1,0,1,0,1,0,0,1,1,1,32000000
+villa,Manjalpur,Laxmi real estate,3 BHK,2,1,1600,2010,0,resale,1,1,0,1,0,1,1,0,0,0,1,1,1,6500000
+villa,Manjalpur,Krupa Society,2 BHK,2,0,1600,2010,0,resale,0,1,0,1,0,1,1,0,0,0,1,1,1,7000000
+villa,Manjalpur,Ashok Vatika,4 BHK,3,1,2000,2010,0,resale,0,1,0,1,0,1,1,0,0,0,1,1,1,14000000
+villa,Manjalpur,Suncity exotica,3 BHK,3,2,1350,2010,1,resale,1,1,0,1,0,1,1,0,0,0,1,1,1,11000000
+villa,Manjalpur,Manianagar Society,3 BHK,3,1,1000,2010,0,resale,0,1,0,1,0,1,1,0,0,0,1,1,1,6300000
+villa,Manjalpur,Geet Tenament,4 BHK,3,1,800,2014,0,resale,0,1,0,1,0,1,1,0,0,0,1,1,1,1010000
+apartment,Gotri,nuL,3 BHK,3,3,1550,2014,1,resale,0,1,1,1,1,1,2,0,0,1,1,1,1,4100000
+apartment,Gotri,Harinagar Society,3 BHK,3,2,1750,2014,1,resale,1,1,1,1,1,1,2,0,0,1,1,1,1,7700000
+apartment,Gotri,Sun rays reality,2 BHK,2,3,1200,2014,1,resale,0,1,1,1,1,1,2,0,0,1,1,1,1,3300000
